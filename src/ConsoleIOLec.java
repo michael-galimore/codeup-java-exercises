@@ -5,7 +5,7 @@ public class ConsoleIOLec {
         String name = "Mike";
         String lastName = "G";
         int myFavoriteNumber = 13;
-        System.out.printf("Hello my name is %s, %s.%nMy favorite number is %d", name, lastName, myFavoriteNumber);
+        System.out.printf("Hello my name is %s, %s.%nMy favorite number is %f", name, lastName, myFavoriteNumber);
 
 
         Scanner scanner = new Scanner(System.in);
