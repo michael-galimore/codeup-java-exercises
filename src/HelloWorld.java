@@ -77,8 +77,8 @@ public class HelloWorld {
         System.out.println(myFavoriteNumber);
 
 //      2.
-//        String myString = "Go Spurs";
-//        System.out.println(myString);
+        String myString = "Go Spurs";
+        System.out.println(myString);
 
 //        3.
 //
@@ -87,8 +87,8 @@ public class HelloWorld {
 //        4.
 //        String myString = 3.14;
 //        variable type needs to be changed to double or float.
-//        float myNumber = (float) 3.14;
-//        System.out.print(myNumber);
+        float myNumber = (float) 3.14;
+        System.out.print(myNumber);
 
 //
 
@@ -162,10 +162,9 @@ public class HelloWorld {
 //        y = y - x;
 //        y -= x
 
-//      14. assign a value to a numerical variable that is larger (or smaller) than the type can hold?
+//      14. What happens if you assign a value to a numerical variable that is larger (or smaller) than the type can hold?
 //      What happens if you increment a numeric variable past the type's capacity?
 //      You would get a compile error.
-
 
 
 
