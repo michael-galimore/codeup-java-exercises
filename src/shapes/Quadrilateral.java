@@ -5,12 +5,10 @@ public abstract class Quadrilateral extends Shape implements Measurable {
     protected int length;
     protected int width;
 
+    public Quadrilateral(){
 
-// a constructor that accepts two numbers for the length and width and sets those properties.
-    public Quadrilateral(int length, int width) {
-        this.length = length;
-        this.width = width;
     }
+
 
 //    methods for getting the length and width.
 
