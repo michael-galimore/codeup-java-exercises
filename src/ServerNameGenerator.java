@@ -9,7 +9,7 @@ public static String getRand(String[] array){
     public static void main(String[] args){
     String adjective = getRand(adj);
     String noun = getRand(nouns);
-
+        System.out.println("Here is your server name: \n"  + adjective + "-" + noun);
 
     }
 

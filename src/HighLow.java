@@ -9,7 +9,7 @@ public class HighLow {
 
         boolean guessing = false;
         do {
-            int userNum = MethodExercises.getInteger(1,100);
+            int userNum = MethodsExercises.getInteger(1,100);
             if (generatedNum == userNum) {
                 System.out.println("GOOD GUESS!");
                 guessing = true;
