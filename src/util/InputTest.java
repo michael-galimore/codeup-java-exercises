@@ -4,7 +4,7 @@ public class InputTest {
     public static void main(String[] args){
         Input in = new Input();
 
-        in.getString();
+        in.getString("Please enter a number.");
 
 
 
